@@ -2,7 +2,7 @@
  
 Hey, this is Derek.
 
-I came from **Shandong Province**, and recently taking undergraduate at **Southwest University of Finance and Economics** in Chengdu.
+I came from **Shandong Province**, and recently taking undergraduate degree at **Southwest University of Finance and Economics** in Chengdu.
 
 
 
