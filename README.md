@@ -1,9 +1,11 @@
-# my-1st-pages
+# Derek Wang
  
-Hello guys, this is Derek.
+This is Derek.
 
-## a header
+## What I can do
 
-- 123
-- 456
+- badminton
+- cooking
+- using packages
+- sing a song for you
 
